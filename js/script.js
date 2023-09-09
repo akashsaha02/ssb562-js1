@@ -2,32 +2,32 @@
 
 function textChange() {
 
-	document.getElementById('h2').innerHTML="Hello World"
+	document.getElementById('h2').innerHTML="Hello World Text Change"
 }
 //text-change
 function wordChange(){
 
-	document.getElementById('h3').innerHTML="Hello World";
+	document.getElementById('h3').innerHTML="Hello World Word Change";
 }
 //text-change
 function docChange(){
 
-	document.getElementById('h4').innerHTML="Hello World";
+	document.getElementById('h4').innerHTML="Hello World Document Change";
 }
 //text-change
 function forChange(){
 
-	document.getElementById('h5').innerHTML="Hello World";
+	document.getElementById('h5').innerHTML="Hello World Format Change";
 }
 //text-change
 function classChange(){
 
-	document.getElementById('h6').innerHTML="Hello World";
+	document.getElementById('h6').innerHTML="Hello World Class Change";
 }
 //text-change
 function scoChange(){
 
-	document.getElementById('h7').innerHTML="Hello World";
+	document.getElementById('h7').innerHTML="Hello World Scope Change";
 }
 //text-change
 function sucChange(){
